@@ -1,6 +1,6 @@
 ## Hi, I’m Jessica 
   
-I am a bootcamp student and freelance artist with an educational 
+I am a full-stack software engineer bootcamp student and freelance artist with an educational 
 background in Graphic Design and Information Systems Security.
 
 
@@ -16,12 +16,6 @@ background in Graphic Design and Information Systems Security.
       - [LinkedIn](https://www.linkedin.com/in/jessica-antunes/)
       - [Medium Articles](https://jessantunes2021.medium.com/)
       
-### My Articles:
- 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jessantunes2021/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jessantunes2021/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jessantunes2021/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jessantunes2021/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jessantunes2021/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jessantunes2021/2" alt="Recent Article 2">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jessantunes2021/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jessantunes2021/3" alt="Recent Article 3">
       
 ### Stats:
 
@@ -29,10 +23,6 @@ background in Graphic Design and Information Systems Security.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![jessicas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jessantunes)](https://github.com/anuraghazra/github-readme-stats)
-
-
- 
  ### My Articles:
  
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jessantunes2021/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jessantunes2021/0" alt="Recent Article 0">
