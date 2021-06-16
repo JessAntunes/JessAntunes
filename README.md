@@ -9,7 +9,7 @@ background in Graphic Design and Information Systems Security.
   - 🌱 I’m currently ...
       - learning JavaScript and React.
       - reading "S" by J. J. Abrams and Doug Dorst.
-      - planning a logic grid puzzle web app in JavaScript.
+      - building a logic grid puzzle web app (Rails backend, JavaScript frontend).
       - playing FFXIV.
       
   - How to reach me: 
