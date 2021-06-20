@@ -7,10 +7,14 @@ background in Graphic Design and Information Systems Security.
   - 👀 I’m interested in learning, drawing, programming, and reading.
   
   - 🌱 I’m currently ...
-      - learning JavaScript and React.
+      - learning React.
       - reading "S" by J. J. Abrams and Doug Dorst.
       - building a logic grid puzzle web app (Rails backend, JavaScript frontend).
       - playing FFXIV.
+
+  - What I accomplished this week:
+      - built my first fullstack application called Logic Grid which runs on Rails API and JavaScript frontend.
+      - finished Module 4: Javascript at Flatiron School.
       
   - How to reach me: 
       - [LinkedIn](https://www.linkedin.com/in/jessica-antunes/)
