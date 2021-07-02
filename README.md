@@ -2,7 +2,7 @@
 ## Hi, I’m Jessica 
   
 I am a full-stack software engineer bootcamp student and freelance artist with an educational 
-background in Graphic Design and Information Systems Security.
+background in Art and Visual Technology and Information Systems Security.
 
 
 
