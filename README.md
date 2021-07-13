@@ -15,8 +15,8 @@ background in Art and Visual Technology and Information Systems Security.
       - playing FFXIV.
 
   - What I accomplished this week:
-      - added two new features to my first fullstack application called Logic Grid which runs on Rails API and JavaScript frontend.
-      - passed a code and technical review.
+      - Started on React/Redux project.
+      - Made it to final week of coding bootcamp!
       
   - How to reach me: 
       - [LinkedIn](https://www.linkedin.com/in/jessica-antunes/)
