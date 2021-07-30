@@ -15,8 +15,8 @@ background in Art and Visual Technology and Information Systems Security.
       - playing FFXIV.
 
   - What I accomplished this week:
-      - Started on React/Redux project.
-      - Made it to final week of coding bootcamp!
+      - Passed my review for my React/Redux project.
+      - Officiallly graduating from my coding bootcamp!
       
   - How to reach me: 
       - [LinkedIn](https://www.linkedin.com/in/jessica-antunes/)
