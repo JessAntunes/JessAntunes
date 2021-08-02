@@ -9,12 +9,12 @@ background in Art and Visual Technology and Information Systems Security.
   - 👀 I’m interested in learning, drawing, programming, and reading.
   
   - 🌱 I’m currently ...
-      - learning React.
-      - reading "S" by J. J. Abrams and Doug Dorst.
+      - learning RSpec and TDD.
+      - reading Shadow and Bone by Leigh Barduga.
       - networking (feel free to contact me!).
       - playing FFXIV.
 
-  - What I accomplished this week:
+  - What I accomplished last week:
       - Passed my review for my React/Redux project.
       - Officiallly graduating from my coding bootcamp!
       
