@@ -12,15 +12,15 @@ background in Art and Visual Technology and Information Systems Security.
       - learning RSpec and TDD.
       - reading Shadow and Bone by Leigh Barduga.
       - networking (feel free to contact me!).
-      - playing FFXIV.
+      - reading Learn Rails 6: Accelerated Web Development with Ruby on Rails by Adam Notodikromo.
 
   - What I accomplished last week:
-      - Passed my review for my React/Redux project.
-      - Officiallly graduating from my coding bootcamp!
+      - 1/3 of the way through RSpec Udemy course.
+      - ranked proficient (out of novice, proficient, expert) on pluralsight.com Skillsiq in Ruby, Javascript, and Rails.
       
   - How to reach me: 
       - [LinkedIn](https://www.linkedin.com/in/jessica-antunes/)
-      - [Medium Articles](https://jessantunes2021.medium.com/)
+      - Email: jessantunes@protonmail.com
 
 ## Technology
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/> <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
