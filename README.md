@@ -1,7 +1,7 @@
 
 ## Hi, I’m Jessica 
   
-I am a full-stack software engineer bootcamp student and freelance artist with an educational 
+I am a full-stack software engineer bootcamp graduate and freelance artist with an educational 
 background in Art and Visual Technology and Information Systems Security.
 
 
@@ -11,11 +11,11 @@ background in Art and Visual Technology and Information Systems Security.
   - 🌱 I’m currently ...
       - learning RSpec and TDD.
       - reading Shadow and Bone by Leigh Barduga.
-      - networking (feel free to contact me!).
+      - learning Big O notation and completing algoexpert.io curriculum.
       - reading Learn Rails 6: Accelerated Web Development with Ruby on Rails by Adam Notodikromo.
 
   - What I accomplished last week:
-      - 1/3 of the way through RSpec Udemy course.
+      - Had 3 interviews with 3 different companies.
       - ranked proficient (out of novice, proficient, expert) on pluralsight.com Skillsiq in Ruby, Javascript, and Rails.
       
   - How to reach me: 
