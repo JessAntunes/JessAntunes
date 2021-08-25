@@ -10,12 +10,12 @@ background in Art and Visual Technology and Information Systems Security.
   
   - 🌱 I’m currently ...
       - learning RSpec and TDD.
-      - reading Shadow and Bone by Leigh Barduga.
+      - interviewing.
       - learning Big O notation and completing algoexpert.io curriculum.
       - reading Learn Rails 6: Accelerated Web Development with Ruby on Rails by Adam Notodikromo.
 
   - What I accomplished last week:
-      - Had 3 interviews with 3 different companies.
+      - Made it to the final round of interviews, completed a project for another interview.
       - ranked proficient (out of novice, proficient, expert) on pluralsight.com Skillsiq in Ruby, Javascript, and Rails.
       
   - How to reach me: 
