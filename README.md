@@ -9,14 +9,12 @@ background in Art and Visual Technology and Information Systems Security.
   - 👀 I’m interested in learning, drawing, programming, and reading.
   
   - 🌱 I’m currently ...
-      - learning RSpec and TDD.
-      - interviewing.
-      - learning Big O notation and completing algoexpert.io curriculum.
-      - reading Learn Rails 6: Accelerated Web Development with Ruby on Rails by Adam Notodikromo.
+      - re-studying Rails 6 to gain a better/more thorough understanding.
+      - learning rails testing / rspec.
 
-  - What I accomplished last week:
-      - Made it to the final round of interviews, completed a project for another interview.
-      - ranked proficient (out of novice, proficient, expert) on pluralsight.com Skillsiq in Ruby, Javascript, and Rails.
+  - What I accomplished this year:
+      - Completed Flatiron School's Full Stack Engineer bootcamp.
+      - Hired by NerdWallet as a Software Engineer I.
       
   - How to reach me: 
       - [LinkedIn](https://www.linkedin.com/in/jessica-antunes/)
