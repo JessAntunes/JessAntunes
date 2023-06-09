@@ -1,7 +1,7 @@
 
 ## Hi, I’m Jessica 
   
-I am a full-stack software engineer bootcamp graduate and freelance artist with an educational 
+I am a full-stack software engineer bootcamp graduate and freelance artist with an education
 background in Art and Visual Technology and Information Systems Security.
 
 
@@ -10,15 +10,16 @@ background in Art and Visual Technology and Information Systems Security.
   
   - 🌱 I’m currently ...
       - re-studying Rails 6 to gain a better/more thorough understanding.
-      - learning rails testing / rspec.
+      - creating new projects
 
-  - What I accomplished this year:
+  - What I accomplished:
       - Completed Flatiron School's Full Stack Engineer bootcamp.
       - Hired by NerdWallet as a Software Engineer I.
+      - In sophmore year of a Computer Science degree.
       
   - How to reach me: 
       - [LinkedIn](https://www.linkedin.com/in/jessica-antunes/)
-      - Email: jessantunes@protonmail.com
+      - Email: jessantunes@proton.me
 
 ## Technology
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/> <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
