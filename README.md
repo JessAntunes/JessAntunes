@@ -2,20 +2,19 @@
 ## Hi, I’m Jessica 
   
 I am a full-stack software engineer bootcamp graduate and freelance artist with an education
-background in Art and Visual Technology and Information Systems Security.
+background in Art and Visual Technology, Information Systems Security, Web Development.
 
 
 
   - 👀 I’m interested in learning, drawing, programming, and reading.
   
   - 🌱 I’m currently ...
-      - re-studying Rails 6 to gain a better/more thorough understanding.
-      - creating new projects
+      - building a social media website for book lovers.
+      - teaching my two young kids web development.
 
   - What I accomplished:
       - Completed Flatiron School's Full Stack Engineer bootcamp.
-      - Hired by NerdWallet as a Software Engineer I.
-      - In sophmore year of a Computer Science degree.
+      - Worked at NerdWallet as a Software Engineer I.
       
   - How to reach me: 
       - [LinkedIn](https://www.linkedin.com/in/jessica-antunes/)
