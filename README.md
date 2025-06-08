@@ -1,5 +1,5 @@
 
-## Hi, I’m Jessica 
+## Hi, I’m Jess
   
 I am a full-stack software engineer bootcamp graduate and freelance artist with an education
 background in Art and Visual Technology, Information Systems Security, Web Development.
